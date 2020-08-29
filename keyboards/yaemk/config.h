@@ -107,5 +107,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SERIAL_USART_TX_PAL_MODE 7  // Pin "alternate function", see the respective datasheet for the appropriate values for your MCU. default: 7
 
 /* Set 0 if debouncing isn't needed */
-#define DEBOUNCE 4
+#define DEBOUNCE 7
 #define TAPPING_TOGGLE 2
