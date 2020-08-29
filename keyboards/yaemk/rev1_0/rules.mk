@@ -1,3 +1,6 @@
+# see for reference:
+# https://docs.qmk.fm/#/getting_started_make_guide?id=rulesmk-options
+
 # MCU name
 MCU = STM32F103
 
